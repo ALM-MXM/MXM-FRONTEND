@@ -29,7 +29,7 @@
 * Responsividade nas telas para garantir uma boa experiência em dispositivos móveis.
 * Segurança reforçada com JWT Token.
 
-## 🔧 Tecnologia utilizada 
+## 🔧 Tecnologias utilizadas 
 
 * HTML e CSS 
 * Framework Angular 17
